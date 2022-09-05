@@ -1,1 +1,1 @@
-# house-rent-prediction-in-Bengalurur
+# house-rent-prediction-in-Bangalore
